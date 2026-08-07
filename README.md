@@ -1,6 +1,6 @@
 # nvim-react
 
-> Una breve descripción atractiva de tu configuración. Ejemplo: "Una configuración moderna, rápida y minimalista de Neovim basada en Lua, diseñada para el desarrollo eficiente en [Lenguaje Principal]."
+> "Una configuración moderna, rápida y minimalista de Neovim basada en Lua, diseñada para el desarrollo eficiente en React."
 
 ![Captura del Entorno](assets/screenshot.png)
 
